@@ -1,2 +1,2 @@
 # Sistema-de-Mercado
-Sitema para cadastro e venda de Produtos
+Sistema para cadastro e venda de Produtos
